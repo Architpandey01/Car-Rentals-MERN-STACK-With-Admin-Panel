@@ -77,8 +77,9 @@ npm start
 🔹 Google Maps integration for location-based search  
 🔹 Dynamic pricing based on demand  
 
-## 🤝 Contributors  
-- **Archit Pandey** – Lead Developer  
+## Credits
+This project is based on work originally created by <Mr. Sangam>.
+Modified and extended by Archit Pandey.
 
 ## 📬 Contact  
 📧 Email: architpandey@example.com  

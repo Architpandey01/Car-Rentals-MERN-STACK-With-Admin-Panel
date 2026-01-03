@@ -82,6 +82,6 @@ This project is based on work originally created by <Mr. Sangam>.
 Modified and extended by Archit Pandey.
 
 ## 📬 Contact  
-📧 Email: architpandey@example.com  
+📧 Email: archit.ap18@gmail.com  
 🔗 Portfolio: [Visit Here](https://archit-portfolio-website.netlify.app/)  
 
